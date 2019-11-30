@@ -6,4 +6,5 @@ This repository contains the files I worked on for the App Academy Open.
 * Ghost game
 
 ### Section 2  - Reference
-IN PROGRESS...
+* Memory Puzzle
+* Sudoku
