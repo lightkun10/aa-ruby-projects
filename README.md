@@ -8,3 +8,6 @@ This repository contains the files I worked on for the App Academy Open.
 ### Section 2  - Reference
 * Memory Puzzle
 * Sudoku
+
+### Section 3  - Recursion
+* Word Chains
