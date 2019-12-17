@@ -20,3 +20,5 @@ This repository contains the files I worked on for the App Academy Open.
 * Knights Travails
 * Tic-Tac-Toe AI
 
+### Section 6  - Object-oriented programming
+* Mancala(Congklak)
