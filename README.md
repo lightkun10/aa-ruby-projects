@@ -14,7 +14,6 @@ This repository contains the files I worked on for the App Academy Open.
 
 ### Section 4  - Git
 * Minesweeper
-* Screwdoku
 
 ### Section 5  - Data Structures
 * Intro data structures: PolyTreeNode
