@@ -11,3 +11,13 @@ This repository contains the files I worked on for the App Academy Open.
 
 ### Section 3  - Recursion
 * Word Chains
+
+### Section 4  - Git
+* Minesweeper
+* Screwdoku
+
+### Section 5  - Data Structures
+* Intro data structures: PolyTreeNode
+* Knights Travails
+* Tic-Tac-Toe AI
+
