@@ -22,3 +22,4 @@ This repository contains the files I worked on for the App Academy Open.
 
 ### Section 6  - Object-oriented programming
 * Mancala(Congklak)
+* Error Handling Funtime
