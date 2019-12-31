@@ -1,5 +1,4 @@
-# aa-ruby-projects
-This repository contains the files I worked on for the App Academy Open.
+This repository contains project and homework files I worked on for the App Academy Open.
 
 ### Section 1  - Enumerables and Debugging
 * Enumerables exercises 
