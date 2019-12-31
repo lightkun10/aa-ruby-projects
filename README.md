@@ -22,3 +22,7 @@ This repository contains project and homework files I worked on for the App Acad
 ### Section 6  - Object-oriented programming
 * Mancala(Congklak)
 * Error Handling Funtime
+
+
+### Section 9  - Big-O
+* Octopus Problems
