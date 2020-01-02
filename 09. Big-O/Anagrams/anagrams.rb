@@ -89,17 +89,6 @@ end
 
 #===== Phase IV =====
 
-=begin
-Write one more method #fourth_anagram?
-
-This time, use two Hashes to store the number of times 
-each letter appears in both words.
-Compare the resulting hashes.
-
-BONUS: Do it with only one hash.
-
-=end
-
 ### O(n), Linear time
 ### O(1), Constant space
 def fourth_anagram?(str1, str2)
