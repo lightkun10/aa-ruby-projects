@@ -4,23 +4,23 @@
 
 #===== Phase I =====
 
-### O(n!) Combinatorial/Factorial time
-### O(n!) Combinatorial/Factorial space
-### WARNING: These version can be dangerous. Activate it with caution.
-### Both space and time complexity will bubble unproportionally.
-# def first_anagram_a?(str1, str2)
-#     arr1, arr2 = string_split(str1), string_split(str2)
-#     arr1.include?(str2.split(" "))
-# end
+## O(n!) Combinatorial/Factorial time
+## O(n!) Combinatorial/Factorial space
+## WARNING: These version can be dangerous. Activate it with caution.
+## Both space and time complexity will bubble unproportionally.
+def first_anagram_a?(str1, str2)
+    arr1, arr2 = string_split(str1), string_split(str2)
+    arr1.include?(str2.split(" "))
+end
 
-# def string_split(str)
-#     str_split = str.split("")
-#     arr_str = str_split.permutation.to_a
-#     # arr_str.map! { |ele| ele.join("") }
-#     arr = arr_str.each_with_object([]) do |char, arr| 
-#         arr << [char.join("")]
-#     end
-# end
+def string_split(str)
+    str_split = str.split("")
+    arr_str = str_split.permutation.to_a
+    # arr_str.map! { |ele| ele.join("") }
+    arr = arr_str.each_with_object([]) do |char, arr| 
+        arr << [char.join("")]
+    end
+end
 
 ### O(n!) Combinatorial/Factorial time
 ### O(n!) Combinatorial/Factorial space
