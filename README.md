@@ -27,3 +27,4 @@ This repository contains project and homework files I worked on for the App Acad
 ### Section 9  - Big-O
 * Octopus Problems
 * Execution Time Differences/Algorithms
+* Anagrams
