@@ -28,3 +28,5 @@ This repository contains project and homework files I worked on for the App Acad
 * Octopus Problems
 * Execution Time Differences/Algorithms
 * Anagrams
+* Two sum problem
+* Windowed Max Range
