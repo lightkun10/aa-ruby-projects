@@ -1,21 +1,4 @@
 require 'byebug'
-=begin
-
-Given an array of unique integers and a target sum, determine whether 
-any two integers in the array sum to that amount.
-
-===========================================================================
-def two_sum?(arr, target_sum)
-    # your code here...
-end
-
-arr = [0, 1, 5, 7]
-two_sum?(arr, 6) # => should be true
-two_sum?(arr, 10) # => should be false
-===========================================================================
-
-=end
-
 # arr = [0, 1, 5, 7]
 
 ### O(n), Linear Time
@@ -45,23 +28,6 @@ end
 
 #===========================================================================================================================================
 
-=begin
- ==== SORTING ====
-Apply a refined and time-honored technique: sorting.
-
-Sort your data, then try to solve the problem.
-
-1. What does sorting do to the lower bound of your time complexity?
-2. How might sorting that make the problem easier?
-
-Write a second solution, called okay_two_sum?, which uses sorting. 
-Make sure it works correctly.
-
-Hint: (There are a couple ways to solve this problem once it's sorted. 
-    One way involves using a very cheap algorithm that can only be used 
-    on sorted data sets. What are some such algorithms you know?)
-
-=end
 arr = [9, 6, 5, 1]
 
 ### #O(nlogn), Linearithmic time
