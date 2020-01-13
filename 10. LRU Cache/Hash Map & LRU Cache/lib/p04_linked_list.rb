@@ -14,9 +14,6 @@ class Node
   end
 
   def remove
-    # optional but useful, connects previous link to next link
-    # and removes self from list.
-
     ## rewiring phase
     self.prev.next = self.next if self.prev
     self.next.prev = self.prev if self.next
