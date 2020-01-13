@@ -78,7 +78,10 @@ class HashMap
 end
 
 # hm = HashMap.new(4)
-# hm.set(1, "first item")
-# hm.set(2, "set after")
+# hm.set(:fire, "passion")
+# hm.set(:earth, "solid")
+# hm.set(:air, "pure")
+# hm.set(:water, "flows")
+# # hm.set(:mercury, "")
 
-# puts hm
+# p hm[:fire]
