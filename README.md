@@ -1,4 +1,4 @@
-This repository contains project and homework files I worked on for the App Academy Open.
+Contains project and homework files I worked on the 'Ruby' section of App Academy Open.
 
 ### Section 1  - Enumerables and Debugging
 * Enumerables exercises 
